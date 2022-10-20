@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RecursionExcursion
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Java, JavaFx, XML, SQL, Spring
+- 🌱 I’m currently learning Java, JavaFX, XML, SQL, Spring, SpringBoot, CSS, BootStrap, HTML, React
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me rloup15@gmail.com
 
